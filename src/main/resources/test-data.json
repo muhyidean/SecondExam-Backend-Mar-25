@@ -1,0 +1,61 @@
+[
+  {
+    "id": 611,
+    "name": "WAA",
+    "term": 1,
+    "academicYear": 2023,
+    "students": [
+      {
+        "id": 111,
+        "name": "Shaima",
+        "gpa": 3.7
+      },
+      {
+        "id": 112,
+        "name": "Zaineh",
+        "gpa": 3.6
+      }
+    ]
+  },
+  {
+    "id": 612,
+    "name": "WAA",
+    "term": 1,
+    "academicYear": 2023,
+    "students": [
+      {
+        "id": 113,
+        "name": "Yasmeen",
+        "gpa": 3.9
+      },
+      {
+        "id": 114,
+        "name": "Mira",
+        "gpa": 3.8
+      }
+    ]
+  },
+  {
+    "id": 613,
+    "name": "DS",
+    "term": 1,
+    "academicYear": 2023,
+    "students": [
+      {
+        "id": 112,
+        "name": "Zaineh",
+        "gpa": 3.6
+      },
+      {
+        "id": 113,
+        "name": "Yasmeen",
+        "gpa": 3.9
+      },
+      {
+        "id": 114,
+        "name": "Mira",
+        "gpa": 3.8
+      }
+    ]
+  }
+]
